@@ -109,8 +109,8 @@ npm --version
 
 1. Клонируйте репозиторий:
 ```bash
-git clone <repository-url>
-cd <repository-name>
+git clone git@github.com:lllchak/infergate.git
+cd infergate
 ```
 
 2. Создайте файл `.env` в корневой директории проекта. Пример можно посмотреть в [.env.example](.env.example)
